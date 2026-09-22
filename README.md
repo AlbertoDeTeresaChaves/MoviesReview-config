@@ -1,6 +1,11 @@
 # Configuración Centralizada (Spring Cloud Config)
 
 >Almacenamiento de las configuraciones YAML de los microservicios, las cuales son consumidas por el **Microservicio de Spring Cloud Config** para poder distribuir cada configuración a su respectivo microservicio.
+<p align="right">
+  <a href="https://github.com/AlbertoDeTeresaChaves/moviesreview-config-server">
+    <img src="https://img.shields.io/badge/Ver_Config_Server-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Ver Config Server" />
+  </a>
+</p>
 
 ---
 
@@ -22,3 +27,4 @@
 
 4. **AQUÍ LAS TIENES**  
    El Config Server le retorna a los microservicios las configuraciones solicitadas en formato JSON.
+
